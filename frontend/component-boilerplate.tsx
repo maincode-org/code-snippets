@@ -1,4 +1,4 @@
-/** Describe the purpose of the component here.*/
+/** Describe the purpose of the BoilerPlate component here.*/
 
 type IProps = {
     dummy: string;
