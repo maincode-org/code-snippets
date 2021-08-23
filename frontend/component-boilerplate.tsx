@@ -1,12 +1,12 @@
 /** Describe the purpose of the BoilerPlate component here.*/
 
 type IProps = {
-    dummy: string;
+    className?: string;
 }
 
-const BoilerPlate: React.FC<IProps> = ({ dummy }) => {
+const BoilerPlate: React.FC<IProps> = ({ className }) => {
     return (
-      <div></div>
+      <div className={className}></div>
     );
 }
 export default BoilerPlate;
