@@ -1,5 +1,3 @@
-/** Describe the purpose of the BoilerPlate component here.*/
-
 type IProps = {
     className?: string;
 }
